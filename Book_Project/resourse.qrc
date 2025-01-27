@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/image">
+        <file>src/bcg.jpg</file>
+        <file>src/moscow.jpg</file>
+        <file>src/profile.jpg</file>
+        <file>src/icon_main.jpg</file>
+        <file>src/main_window.jpg</file>
+        <file>src/books.jpg</file>
+        <file>src/i.webp</file>
+    </qresource>
+</RCC>
